@@ -1,3 +1,11 @@
+#titulo-id {
+    color: purple;
+}
+
+.cor-amarela {
+    color: yellow;
+}
+
 h2 {
     font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: tomato;
@@ -17,3 +25,14 @@ h2{
 .fundo-verde {
     background: #0f0;
 }
+
+.font-grande {
+    font-size: 50px;
+ }
+
+#titulo-principal{
+    background: black;
+    color: white;
+}
+
+/* especificidade */
