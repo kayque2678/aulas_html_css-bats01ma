@@ -1,0 +1,8 @@
+.caixa_width {
+    /* espessura, tipo e a cor =>width,style, color */
+    border-width: 2px;
+    border-style: solid;
+
+    /* shorthand */
+    border: 2px solid #f00;
+}
